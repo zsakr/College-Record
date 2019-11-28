@@ -19,12 +19,12 @@ a number of operations typically available in a directory program. The interface
 are depicted below.
 
        --- Faculty ---
-       Name: Frank Faculty
-       Email: frank@trincoll.edu
+       Name: Ziad Sakr
+       Email: zsakr@trincoll.edu
        Phone: 203-222-2222
        Handout #30—April 16, 2018 5
-       Department: CHEM
-       Rank: Assistant Professor
+       Department: CS
+       Rank: Professor
        --- Staff ---
        Name: Samantha Staff
        Email: samantha@trincoll.edu
